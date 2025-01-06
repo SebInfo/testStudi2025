@@ -1,2 +1,9 @@
 tototata
 jjjjj
+total 24
+drwxr-xr-x@  6 sebastien  staff  192  6 jan 17:31 .
+drwxr-xr-x   5 sebastien  staff  160  6 jan 17:31 ..
+drwxr-xr-x@ 13 sebastien  staff  416  6 jan 17:31 .git
+-rw-r--r--@  1 sebastien  staff    5  6 jan 16:51 a.txt
+-rw-r--r--@  1 sebastien  staff   15  6 jan 17:31 b.txt
+-rw-r--r--@  1 sebastien  staff  346  6 jan 17:05 c.txt
