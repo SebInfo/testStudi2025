@@ -1,0 +1,7 @@
+total 8
+drwxr-xr-x@  6 sebastien  staff  192  6 jan 16:53 .
+drwxr-xr-x   4 sebastien  staff  128  6 jan 16:53 ..
+drwxr-xr-x@ 10 sebastien  staff  320  6 jan 16:53 .git
+-rw-r--r--@  1 sebastien  staff    5  6 jan 16:51 a.txt
+-rw-r--r--@  1 sebastien  staff    0  6 jan 16:53 b.txt
+-rw-r--r--@  1 sebastien  staff    0  6 jan 16:54 c.txt
